@@ -725,7 +725,7 @@ var overlays = {
     "Vremea locale 2016": weatherLayer.layerGroup,
 };
 
-// demographicsLayer.addTo(map);
+demographicsLayer.addTo(map);
 // turnoutLayer.addTo (map);
 // nullVoteLayer.addTo(map);
 // weatherLayer.addTo(map);
